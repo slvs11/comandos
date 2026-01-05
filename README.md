@@ -21,7 +21,7 @@
   - Actualiza el !getinfo de jugadores especificos  
 
 - ### `#get lobo, limo, etc`  
-  - Actualiza el !getinfo de los jugadores que luchan contra dicho enemigo (se pueden usar [abreviaturas:](https://github.com/slvs11/comandos/tree/main#%EF%B8%8F-lista-completa-de-enemigos-por-categor%C3%ADa-y-abreviaturas) disponibles)  
+  - Actualiza el !getinfo de los jugadores que luchan contra dicho enemigo (se pueden usar [abreviaturas:](https://github.com/slvs11/comandos/tree/main?tab=readme-ov-file#%E2%80%8D%EF%B8%8F-lista-completa-de-enemigos-por-categor%C3%ADa-y-abreviaturas) disponibles)  
 
 ### ⚔️ `#luchando`, `#siguen`, `continuan`, `viven`  
 - Cualquiera de los comandos anteriores funciona para indicar que jugadores continúan en la mazmorra.  
