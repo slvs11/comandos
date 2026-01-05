@@ -138,7 +138,7 @@ Siempre agrégalo al final, cuando ya nadie se une; los espectadores tienen prio
 - `v focus ENEMIGO`  
 - `v !focus ENEMIGO`  
 - `@vegastar14 focus ENEMIGO`  
-(Puedes usar nombre, sin acento, o [abreviaturas:](https://github.com/slvs11/comandos/tree/main#%EF%B8%8F-lista-completa-de-enemigos-por-categor%C3%ADa-y-abreviaturas) ej. `mino`, `cyc`, `som`)
+(Puedes usar nombre, sin acento, o [abreviaturas:](https://github.com/slvs11/comandos/tree/main?tab=readme-ov-file#%E2%80%8D%EF%B8%8F-lista-completa-de-enemigos-por-categor%C3%ADa-y-abreviaturas) ej. `mino`, `cyc`, `som`)
 
 ## ℹ️ Comandos de Información  
 
