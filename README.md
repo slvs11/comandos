@@ -27,7 +27,7 @@
 - Cualquiera de los comandos anteriores funciona para indicar que jugadores continúan en la mazmorra.  
  - `viven @juador1 @jugador4 @jugador15` estos jugadores son los que siguen vivos en la mazmorra el resto  
 que no se mencione será eliminado de la información del bot, si borras a alguien que sigue en juego  
-basta con mandar `!getinfo @jugador` para volver a meterlo a las listas
+basta con mandar `!getinfo @jugador / #get @jugador` para volver a meterlo a las listas
 
 ### 🆑 `#clear`  
 - Elimina toda la información de jugadores regitrada en el bot.
@@ -74,8 +74,8 @@ basta con mandar `!getinfo @jugador` para volver a meterlo a las listas
 ### ⬆️ `#Suben`  
 - Muestra los jugadores que subirán de nivel al ganar la mazmorra.
 
-### ✨ Comandos `curan`, `cura` y `curanderos`  
-- Comandos para ver si alguien del equipo puede curar a los jugadores
+### ✨ Comandos `#curan`, `#cura` y `#curanderos`  
+- Comandos para ver si alguien del equipo puede curar a los jugadores heridos.
 
 ### 🕊️ `#f @jugador`  
 - Elimina a un jugador (muerto) de las listas `#info` y `#ENEMIGOS`.  
