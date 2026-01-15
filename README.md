@@ -51,7 +51,10 @@ basta con mandar `!getinfo @jugador` para volver a meterlo a las listas
 - Muestra jugadores que ponen en riesgo la mazmorra.  
 
 ### 🛩️ `#kami`  
-- Jugadores que matarán a su enemigo al morir.  
+- Jugadores que matarán a su enemigo al morir.
+
+### 💀 `#ningun`  
+- Muestra a los jugadores con alguna habilidad que se aprovecha si no ha muerto ningún jugador.
 
 ### 📊 `#b agiles` y `#b resistentes`  
 - Lista todos los enemigos ágiles/resistentes de Kukoro.  
