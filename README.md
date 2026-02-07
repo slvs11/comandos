@@ -1,6 +1,6 @@
 # 📜 Comandos disponibles solo para 📹 streamer y ⚔️ moderadores.  
 
-### ▶️ `#star`  
+### ▶️ `#star`, `#on`  
 - Enciende el bot para que empiece a procesar la información de Kukoro.  
 
 ### ℹ️ `#info`  
@@ -80,7 +80,7 @@ basta con mandar `!getinfo @jugador / #get @jugador` para volver a meterlo a las
 ### 🕊️ `#f @jugador`  
 - Elimina a un jugador (muerto) de las listas `#info` y `#ENEMIGOS`.  
 
-### 🔚 `#fin`  
+### 🔚 `#fin`, `off`  
 - El bot finaliza su chamba. 😆  
 
 ### ❓ `#extra`  
